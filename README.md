@@ -2,6 +2,10 @@
 
 La base de datos diseñada para el taller mecánico tiene como objetivo gestionar de manera eficiente la información clave relacionada con la operación del taller. A continuación, se presenta una descripción detallada de las entidades principales y su relación en el esquema:
 
+## [Diagrama ER](schema.png)
+
+## [Script](workshop.sql)
+
 ## 1. Usuario (User)
 
 - **id (clave primaria):** Identificador único del usuario.
