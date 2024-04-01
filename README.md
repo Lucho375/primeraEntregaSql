@@ -6,6 +6,8 @@ La base de datos diseñada para el taller mecánico tiene como objetivo gestiona
 
 ## [Script](workshop.sql)
 
+## [PreEntrega N°2](2daEntrega.MD)
+
 ## 1. Usuario (User)
 
 - **id (clave primaria):** Identificador único del usuario.
