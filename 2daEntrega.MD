@@ -114,8 +114,9 @@ SOURCE main.sql
 
 > Realiza una operación de LEFT JOIN entre las tablas invoice y payment, y utiliza la función COALESCE para manejar los casos en los que no hay pagos asociados.
 
-3. work_order_summary
-   > Esta vista proporciona un resumen de las órdenes de trabajo, incluyendo detalles del vehículo, el nombre del mecánico y una descripción del problema.
+### 3. work_order_summary
+
+> Esta vista proporciona un resumen de las órdenes de trabajo, incluyendo detalles del vehículo, el nombre del mecánico y una descripción del problema.
 
 ### Campos seleccionados:
 
