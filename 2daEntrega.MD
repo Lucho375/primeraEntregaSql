@@ -1,5 +1,25 @@
 # 2da Entrega SQL
 
+### Para hacer los inserts :
+
+> 1. Abrir la terminal y ubicarse en la carpeta inserts
+
+```
+cd inserts/
+```
+
+> 2. Ejecutar mysql desde la terminal
+
+```
+mysql -u root -p
+```
+
+> 3. Correr el siguiente comando
+
+```sql
+SOURCE main.sql
+```
+
 ## Functions
 
 ### 1. getFullName
